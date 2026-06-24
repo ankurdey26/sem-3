@@ -1,0 +1,7 @@
+Today's topics:
+1. Github account creation
+	github.com
+2. Installation of GIT from official web site
+	https://git-scm.com/install/windows?utm_source=chatgpt.com
+	
+3. 	Done it [Also refer to word document]
